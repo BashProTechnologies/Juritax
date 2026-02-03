@@ -1,0 +1,7 @@
+{
+  "name": "Juritax",
+  "description": "A premium consultancy and business equipment platform providing audit, accounting, and tax solutions with a sleek dark-themed interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
